@@ -1,5 +1,2 @@
 #!/bin/bash
-cp
-cp -i 
-cp -u
-cp -p
+cp "cp -i" "cp -u" "cp -p"
